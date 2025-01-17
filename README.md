@@ -1,4 +1,4 @@
-# Sabir Ali's 
+# Sabir Ali
 
 Welcome to my GitHub profile! This repository contains my professional resume, showcasing my skills, projects, internships, and more.
 
