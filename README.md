@@ -1,52 +1,73 @@
-# Full Stack Developer (MERN + Next.js + SQL + Prisma + Passport.js)
+# Sabir Ali's Resume
 
-👋 Hi, I'm Sabir Ali! Welcome to my GitHub Profile.
+Welcome to my GitHub profile! This repository contains my professional resume, showcasing my skills, projects, internships, and more.
 
-## About Me
+## Contact Information
+- **Phone**: +91-7464082141
+- **Email**: [alisabir167167@gmail.com](mailto:alisabir167167@gmail.com)
+- **LinkedIn**: [linkedin.com/in/sabirali123](https://linkedin.com/in/sabirali123)
+- **GitHub**: [github.com/alisabir16767](https://github.com/alisabir16767)
+- **GeeksforGeeks**: [geeksforgeeks.org/user/alisabirmg2q](https://www.geeksforgeeks.org/user/alisabirmg2q/)
+- **Codeforces**: [codeforces.com/profile/Sabir_Ali](https://codeforces.com/profile/Sabir_Ali)
 
-I am a passionate full-stack developer with a strong focus on building modern, scalable, and efficient web applications. With extensive experience in the **MERN Stack** (MongoDB, Express, React, Node.js), I also specialize in integrating technologies like **Next.js**, **SQL**, **Prisma**, **Passport.js**, and more.
+## Education
+**Chandigarh University**  
+- *Bachelor of Engineering in Information Technology*  
+- **CGPA**: 8.0  
+- **Duration**: August 2022 -- July 2026  
+- **Location**: Mohali, Chandigarh
+
+**Co-operative Inter College**  
+- *Science and Mathematics*  
+- **Percentage**: 83.2%  
+- **Duration**: March 2018 -- March 2020  
+- **Location**: Gopalganj, India
 
 ## Skills & Technologies
-
-- **Frontend:** 
-  - React, Next.js, Redux, Tailwind CSS, HTML, CSS, JavaScript (ES6+)
-  - Server-side rendering with **Next.js** for fast and SEO-friendly web apps
-  - Responsive design and UX optimization
-
-- **Backend:** 
-  - Node.js, Express.js, RESTful API design
-  - Authentication with **Passport.js**
-  - Authentication strategies (JWT, OAuth, Local Strategy)
-  
-- **Database:**
-  - **MongoDB**, **PostgreSQL**, **MySQL**, and **SQL** databases
-  - Database ORM with **Prisma**
-  - Writing optimized SQL queries and schema design
-
-- **Tools & Others:**
-  - Git, GitHub, Docker, JWT
-  - Testing with Jest, Mocha
-  - Deployment with Vercel, Heroku, AWS, and Docker
+- **Languages**: JavaScript, Python, C++, C, SQL, NoSQL
+- **Frameworks & Technologies**: ReactJS, Redux, Next.js, Node.js, Express.js, MongoDB, Mongoose, Passport.js, RESTful API, OOP, Cookies, Sessions
+- **Developer Tools**: VS Code, Postman, MongoDB Atlas, GitHub, DataGrip, Vercel
+- **Cloud & Deployment**: Render, Vercel, Git, Heroku
 
 ## Projects
 
-### 🚀 [Project Name 1](#) - Description
-A full-featured MERN stack application built with React, Node.js, Express, and MongoDB.
+### [Wanderlust (Airbnb-like Platform)](https://github.com/alisabir16767/WanderLust) - **MERN Stack**  
+*December 2023 - March 2024*  
+- Developed a full-stack web application for a travel and accommodation booking platform.
+- Implemented user authentication and session management using Passport.js.
+- Utilized MongoDB for data storage and deployed the project on Render.
+- [Live Site](http://localhost:8080/listings)
 
-### 🚀 [Project Name 2](#) - Description
-A Next.js project with server-side rendering, Prisma ORM with PostgreSQL, and Passport.js for authentication.
+### [Splitwise Algorithm for Debt Settlement](https://github.com/alisabir16767/SlitWiseAlgorithmForDebtSattelment) - **C++**  
+*March 2024*  
+- Created a debt settlement system using a Splitwise-like algorithm, reducing transaction complexity.
+- Used C++ data structures for efficient person-to-person transaction matching.
+- Optimized transaction settlement with a greedy algorithm.
 
-## Fun Animation 🎉
+### [Online Marketplace (Shop by City and Category)](https://github.com/alisabir16767/OnlineMarketPlace-Shop_city_And_catogary-) - **MERN, Next.js, Redux**  
+*April 2024 - Present*  
+- Built a full-stack online marketplace for users to open shops categorized by city and product type.
+- Integrated Redux for state management and improved transaction performance.
+- [Live Site](https://yourmarketplacelink.com)
 
-To add a bit of fun to this README, here's an animated ASCII art sequence! 🚀
+## Internship Experience
 
-```bash
-      ________
-     /        \
-    /  Hello!  \
-   /  Welcome to \
-  |   My GitHub! |
-   \____________/
-      /      \
-     /  🚀    \
-    /__________\
+### Maa Ambe Road and Carriers - **Full Stack Developer Intern**  
+*November 2024 - February 2025*  
+- Developed a logistics and shipment app, reducing delivery times by 20%.
+- Optimized route planning, saving 15% in fuel costs.
+- Integrated APIs for real-time tracking.
+
+### Prenagati Technology - **MERN Stack Developer Intern**  
+*May 2024 - July 2024*  
+- Contributed to scalable web applications, optimizing backend performance.
+- Implemented secure authentication with JWT and Passport.js.
+- Designed and tested RESTful APIs.
+
+## Achievements
+- **Solved 1000+ DSA Questions**: Mastered DSA with 1000+ problems solved.
+- **Completed 5+ Freelance Projects**: Delivered 5+ freelance projects in full-stack development.
+- **GFG Contest Rating: 1800+**: Achieved 1800+ rating in GeeksforGeeks contests.
+- **Coding Ninjas Rating: 1500+**: Earned 1500+ rating on Coding Ninjas contests.
+
+Feel free to explore my projects and other details in the repository.
