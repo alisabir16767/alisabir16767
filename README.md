@@ -1,6 +1,6 @@
 # Full Stack Developer (MERN + Next.js + SQL + Prisma + Passport.js)
 
-👋 Hi, I'm [Your Name]! Welcome to my GitHub Profile.
+👋 Hi, I'm Sabir Ali! Welcome to my GitHub Profile.
 
 ## About Me
 
