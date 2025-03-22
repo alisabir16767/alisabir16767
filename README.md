@@ -13,7 +13,7 @@ Welcome to my GitHub profile! This repository contains my professional resume, s
 ## Education
 **Chandigarh University**  
 - *Bachelor of Engineering in Information Technology*  
-- **CGPA**: 8.0  
+- **CGPA**: 8.13  
 - **Duration**: August 2022 -- July 2026  
 - **Location**: Mohali, Chandigarh
 
