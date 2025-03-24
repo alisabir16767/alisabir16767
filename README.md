@@ -1,73 +1,38 @@
-# Sabir Ali
+<h1 align="center">Hi 👋, I'm Sabir ali</h1>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
-Welcome to my GitHub profile! This repository contains my professional resume, showcasing my skills, projects, internships, and more.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alisabir167167&label=Profile%20views&color=0e75b6&style=flat" alt="alisabir167167" /> </p>
 
-## Contact Information
-- **Phone**: +91-7464082141
-- **Email**: [alisabir167167@gmail.com](mailto:alisabir167167@gmail.com)
-- **LinkedIn**: [linkedin.com/in/sabirali123](https://linkedin.com/in/sabirali123)
-- **GitHub**: [github.com/alisabir16767](https://github.com/alisabir16767)
-- **GeeksforGeeks**: [geeksforgeeks.org/user/alisabirmg2q](https://www.geeksforgeeks.org/user/alisabirmg2q/)
-- **Codeforces**: [codeforces.com/profile/Sabir_Ali](https://codeforces.com/profile/Sabir_Ali)
+- 🔭 I’m currently working on [Bazar Connect](https://github.com/alisabir16767/BazarConnect)
 
-## Education
-**Chandigarh University**  
-- *Bachelor of Engineering in Information Technology*  
-- **CGPA**: 8.13  
-- **Duration**: August 2022 -- July 2026  
-- **Location**: Mohali, Chandigarh
+- 🌱 I’m currently learning **Next.js**
 
-**Co-operative Inter College**  
-- *Science and Mathematics*  
-- **Percentage**: 83.2%  
-- **Duration**: March 2018 -- March 2020  
-- **Location**: Gopalganj, India
+- 👯 I’m looking to collaborate on [WanderLust](https://github.com/alisabir16767/WanderLust)
 
-## Skills & Technologies
-- **Languages**: JavaScript, Python, C++, C, SQL, NoSQL
-- **Frameworks & Technologies**: ReactJS, Redux, Next.js, Node.js, Express.js, MongoDB, Mongoose, Passport.js, RESTful API, OOP, Cookies, Sessions
-- **Developer Tools**: VS Code, Postman, MongoDB Atlas, GitHub, DataGrip, Vercel
-- **Cloud & Deployment**: Render, Vercel, Git, Heroku
+- 🤝 I’m looking for help with [Talk with video](https://github.com/alisabir16767/issue-tracker)
 
-## Projects
+- 👨‍💻 All of my projects are available at [https://codolio.com/profile/Sabir_ali1](https://codolio.com/profile/Sabir_ali1)
 
-### [Wanderlust (Airbnb-like Platform)](https://github.com/alisabir16767/WanderLust) - **MERN Stack**  
-*December 2023 - March 2024*  
-- Developed a full-stack web application for a travel and accommodation booking platform.
-- Implemented user authentication and session management using Passport.js.
-- Utilized MongoDB for data storage and deployed the project on Render.
-- [Live Site](http://localhost:8080/listings)
+- 💬 Ask me about **MERN**
 
-### [Splitwise Algorithm for Debt Settlement](https://github.com/alisabir16767/SlitWiseAlgorithmForDebtSattelment) - **C++**  
-*March 2024*  
-- Created a debt settlement system using a Splitwise-like algorithm, reducing transaction complexity.
-- Used C++ data structures for efficient person-to-person transaction matching.
-- Optimized transaction settlement with a greedy algorithm.
+- 📫 How to reach me **alisabir167167@gmail.com**
 
-### [Online Marketplace (Shop by City and Category)](https://github.com/alisabir16767/OnlineMarketPlace-Shop_city_And_catogary-) - **MERN, Next.js, Redux**  
-*April 2024 - Present*  
-- Built a full-stack online marketplace for users to open shops categorized by city and product type.
-- Integrated Redux for state management and improved transaction performance.
-- [Live Site](https://yourmarketplacelink.com)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1obd1crHo0vRDHcYe-Ucpo7DNPtSv-77U/view?usp=sharing](https://drive.google.com/file/d/1obd1crHo0vRDHcYe-Ucpo7DNPtSv-77U/view?usp=sharing)
 
-## Internship Experience
+- ⚡ Fun fact **I think I am funny**
 
-### Maa Ambe Road and Carriers - **Full Stack Developer Intern**  
-*November 2024 - February 2025*  
-- Developed a logistics and shipment app, reducing delivery times by 20%.
-- Optimized route planning, saving 15% in fuel costs.
-- Integrated APIs for real-time tracking.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/alisabir167167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alisabir167167" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/alisabir167167" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="alisabir167167" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sabir_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sabir_ali" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sabir_ali123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sabir_ali123" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/alisabirmg2q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="alisabirmg2q" height="30" width="40" /></a>
+</p>
 
-### Prenagati Technology - **MERN Stack Developer Intern**  
-*May 2024 - July 2024*  
-- Contributed to scalable web applications, optimizing backend performance.
-- Implemented secure authentication with JWT and Passport.js.
-- Designed and tested RESTful APIs.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## Achievements
-- **Solved 1000+ DSA Questions**: Mastered DSA with 1000+ problems solved.
-- **Completed 5+ Freelance Projects**: Delivered 5+ freelance projects in full-stack development.
-- **GFG Contest Rating: 1800+**: Achieved 1800+ rating in GeeksforGeeks contests.
-- **Coding Ninjas Rating: 1500+**: Earned 1500+ rating on Coding Ninjas contests.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisabir167167&show_icons=true&locale=en&layout=compact" alt="alisabir167167" /></p>
 
-Feel free to explore my projects and other details in the repository.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alisabir167167&show_icons=true&locale=en" alt="alisabir167167" /></p>
