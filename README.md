@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **alisabir167167@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1obd1crHo0vRDHcYe-Ucpo7DNPtSv-77U/view?usp=sharing](https://drive.google.com/file/d/1obd1crHo0vRDHcYe-Ucpo7DNPtSv-77U/view?usp=sharing)
+- 📄 Know about my experiences [https://portfolio-lemon-five-29.vercel.app](https://portfolio-lemon-five-29.vercel.app)
 
 - ⚡ Fun fact **I think I am funny**
 
