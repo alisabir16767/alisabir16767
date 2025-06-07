@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Bazar Connect](https://github.com/alisabir16767/BazarConnect)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **AWS + DEVOPS**
 
 - 👯 I’m looking to collaborate on [WanderLust](https://github.com/alisabir16767/WanderLust)
 
