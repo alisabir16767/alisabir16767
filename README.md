@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [WanderLust](https://github.com/alisabir16767/WanderLust)
 
-- 🤝 I’m looking for help to improve UI with [Talk with video](https://github.com/alisabir16767/issue-tracker)
+- 🤝 I’m looking for help to improve UI with [ISSUE-TRACKER](https://github.com/alisabir16767/issue-tracker)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-lemon-five-29.vercel.app](https://portfolio-lemon-five-29.vercel.app/)
 
