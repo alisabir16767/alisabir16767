@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help to improve UI with [ISSUE-TRACKER](https://github.com/alisabir16767/issue-tracker)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-lemon-five-29.vercel.app](https://portfolio-lemon-five-29.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-lemon-five-29.vercel.app](https://sabir-portfolio-rho.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
