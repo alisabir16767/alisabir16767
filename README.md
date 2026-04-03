@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help to improve UI with [ISSUE-TRACKER](https://github.com/alisabir16767/issue-tracker)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-lemon-five-29.vercel.app](https://sabir-portfolio-rho.vercel.app/)
+- 👨‍💻 All of my projects are available at [sabirali.work](https://www.sabirali.work/)
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **alisabir167167@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-lemon-five-29.vercel.app](https://portfolio-lemon-five-29.vercel.app)
+- 📄 Know about my experiences [sabirali.work](https://www.sabirali.work/)
 
 - ⚡ Fun fact **I think I am funny**
 
